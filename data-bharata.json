@@ -329,18 +329,20 @@
           "pomobat": "TR 233 057 061",
           "mantapobat": "Lihat Dikemasan",
           "khasiatobat": [
+            "Mengobati Komplikasi",
             "Mengobati Gagal Ginjal",
+            "Mengobati Gangguan Syaraf",
+            "Mengobati Stroke Menahun",
+            "Mengobati Semua Masalah Paru - Paru"
             "Mengobati Ginjal Kronis",
             "Mengobati Ginjal Akut",
             "Mengobati Batu Ginjal",
             "Mengobati Infeksi Ginjal",
             "Mengobati Segala Masalah Ginjal",
             "Mengobati Batu Empedu",
-            "Mengobati Stroke Menahun",
             "Mengobati Epilepsi",
             "Mengobati Kejang - Kejang",
             "Mengobati Ayan",
-            "Mengobati Gangguan Syaraf",
             "Mengobati Penyumbatan Darah dan Oksigen Ke Otak",
             "Mengobati Radang Paru - Paru",
             "Mengobati Asma",
@@ -348,7 +350,6 @@
             "Mengobati Batuk Berdarah",
             "Mengobati Tuberkulosis (TBC)",
             "Mengobati Flek Paru - Paru",
-            "Mengobati Semua Masalah Paru - Paru"
           ],
           "kandunganobat": [
             "Cinnamomum Zeylanicum Cortex 183.3mg",
