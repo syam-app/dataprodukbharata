@@ -333,7 +333,7 @@
             "Mengobati Gagal Ginjal",
             "Mengobati Gangguan Syaraf",
             "Mengobati Stroke Menahun",
-            "Mengobati Semua Masalah Paru - Paru"
+            "Mengobati Semua Masalah Paru - Paru",
             "Mengobati Ginjal Kronis",
             "Mengobati Ginjal Akut",
             "Mengobati Batu Ginjal",
@@ -738,7 +738,7 @@
           "pomobat": "TR 223 063 071",
           "mantapobat": "Lihat Dikemasan",
           "khasiatobat": [
-            "Melangsingkan Badan",
+            "Melangsingkan Badan",c
             "Penurun Berat Badan",
             "Mengurangi Lemak",
             "Membakar Lemak",
