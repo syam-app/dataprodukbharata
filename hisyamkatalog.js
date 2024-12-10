@@ -1,5 +1,4 @@
   document.addEventListener("DOMContentLoaded", (function() {
-	window.onload = function() {if (typeof checkFunction !== "function") {document.body.innerHTML = ""}};
 	const e = document.getElementById("daftar-produk-container");
 	fetch("https://raw.githubusercontent.com/hisyam-coder/dataprodukbharata/refs/heads/bharata/data-bharata.json").then((e => e.json())).then((a => {
 		Object.keys(a).map((e => a[e])).sort(((e, a) => {
@@ -35,4 +34,4 @@
 			h.id = "hargaupserupa", h.innerHTML = `<s>${a.hargaobatup}</s>`, t.appendChild(n), t.appendChild(r), t.appendChild(i), t.appendChild(s), t.appendChild(p), t.appendChild(h), t.appendChild(c), e.appendChild(t)
 		}))
 	})).catch((e => console.error("Gagal memuat JSON:", e)))
-}));
+}));window.onload = function() {if (typeof checkFunction !== "function") {document.body.innerHTML = ""}};
