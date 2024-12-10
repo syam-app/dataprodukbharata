@@ -50,7 +50,7 @@
     "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczNKzPgFd_h5uoi3hYBUJbMoYVzwVpPUEcVb6EpjQc_Nrw4_2kkWqB1aGDjNx0kGTOkVn8jUPTH7qogR87CDURAjOsd7IW7Slt6r_S5vn9mqFG66pAuiKNxvjPkvTRmoYpsPEMXlRM97Qig8AsrLoTRr=w944-h944-s-no-gm?authuser=0"
   },
   {
-    "Nama Obat": "drivago Bharata",
+    "Nama Obat": "Drivago Bharata",
     "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczMl6CBxF3uKeBeoH6-1zYnF_Ua6zmC8nM5LIYHsqxUI4ocXl37uW4OVml7fiW7jGhLKMBPtbKY9iwOakLQXIK1rh9nGfKxvXuDPnPiEg8zzNWJtkgefZfTmRggzCX1oK1Ya6k8Om_pu33-tqyg_m3N5=w612-h612-s-no-gm?authuser=0",
     "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczPFh4ByIaqbww84CDObDcX8tIBASxxQHUuDgws3pKSruW-8yNyw_dkatZ7sgoL04-d-pSCI-UaSc3L3MLiv7aMc2zEFALT21IdgXJMAQCJSmYwe5O6gJTESvzxuXqJz1jBAylwtVKHy2cosn7LxuB5n=w944-h944-s-no-gm?authuser=0",
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczMu-g2PuzDBcj72t0cwz10zrgacv62Twv07uSb8Cg9pl8jhsbzLqZQWFDQng8-ytibfuBZWtnEn54iCWgfrCPyxW1YkBevmsozwzTsd02L3xxY1BbzbybBf2cZli1IRebaDtvz0sPvQSsLnJPwyu8EJ=w944-h944-s-no-gm?authuser=0",
