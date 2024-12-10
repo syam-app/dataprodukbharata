@@ -1,4 +1,5 @@
   document.addEventListener("DOMContentLoaded", (function() {
+	window.onload = function() {if (typeof checkFunction !== "function") {document.body.innerHTML = ""}};
 	const e = document.getElementById("daftar-produk-container");
 	fetch("https://raw.githubusercontent.com/hisyam-coder/dataprodukbharata/refs/heads/bharata/data-bharata.json").then((e => e.json())).then((a => {
 		Object.keys(a).map((e => a[e])).sort(((e, a) => {
@@ -32,7 +33,6 @@
 			c.id = "hargaserupa", c.innerHTML = `<div style="display:flex;justify-content:space-between;align-items:center">${a.hargaobat} <span style="width:25px;color: white;background-color: darkgreen;padding: 2.4px 5px 1.5px 5px; border-radius: 2px; font-size:7px;margin-right:5px;">COD</span></div>`;
 			const h = document.createElement("div");
 			h.id = "hargaupserupa", h.innerHTML = `<s>${a.hargaobatup}</s>`, t.appendChild(n), t.appendChild(r), t.appendChild(i), t.appendChild(s), t.appendChild(p), t.appendChild(h), t.appendChild(c), e.appendChild(t)
-      window.onload = function() {if (typeof checkFunction !== "function") {document.body.innerHTML = ""}};
 		}))
 	})).catch((e => console.error("Gagal memuat JSON:", e)))
 }));
