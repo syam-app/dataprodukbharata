@@ -11,9 +11,9 @@
   },
   {
     "Nama Obat": "Chanamax Bharata",
-    "FOTO 1": "",
+    "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczNTkckzPtbUn-8-VhsRfs_OQ-0s6ORJcydkHhTIfPENvqDY6fEz1CMDIEFRUAZSzYaSs25MYv_kjRPYm1Wkx3pPPWRkRYsicBHVBRQNOkzTbUAjV1DAQpDiq18ESniU1hSNRNh7-sPCji23vY9muUuz=w944-h944-s-no-gm?authuser=0",
     "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczN3bEUV1kUnjV-c-txyDf6BQtmA1I6TJMOfbbK1wv5ViiERrk17-9doT9faB4dul5CfQfKCmNXhkkogbK7D5adM_xnu1Mw4YRsMePw0S4A20JXo-Jb_Ea7EP-g3stxepKfXEz4wdBxgV5wWrY9LvDoa=w944-h944-s-no-gm?authuser=0",
-    "FOTO 3": "",
+    "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczP0akowMCgqalT7e_Nvmlf38sz9GQTQjfqtHEcVUaGn4cE10vv7AbU5nLjsO8mSPMEmt6CHVZw5X3jq_koJp8umWEHiK4w7iukrqFyN0Apt1BnnoKCP_BOGPeaCJ0v55Ai94PCmtK8crxrKDZMKVM88=w944-h944-s-no-gm?authuser=0",
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczN5Zv5wofWDbkgqcjb5qQDQbJ1hchBWh4ijkJojbe41fJBJfkL0jyvTcvj1BY8p1wPOxt3kTmlZTuAP85zxHD94CXrbu5E-RZa9jOcwOnIbrL8JeTDny3VWugsEgciqlxC9P6U9TBq3o8BqchEtTdTc=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczNTkckzPtbUn-8-VhsRfs_OQ-0s6ORJcydkHhTIfPENvqDY6fEz1CMDIEFRUAZSzYaSs25MYv_kjRPYm1Wkx3pPPWRkRYsicBHVBRQNOkzTbUAjV1DAQpDiq18ESniU1hSNRNh7-sPCji23vY9muUuz=w944-h944-s-no-gm?authuser=0",
     "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczP0akowMCgqalT7e_Nvmlf38sz9GQTQjfqtHEcVUaGn4cE10vv7AbU5nLjsO8mSPMEmt6CHVZw5X3jq_koJp8umWEHiK4w7iukrqFyN0Apt1BnnoKCP_BOGPeaCJ0v55Ai94PCmtK8crxrKDZMKVM88=w944-h944-s-no-gm?authuser=0",
@@ -27,7 +27,7 @@
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczORNuEbFFp_T6QP-76XsTh6Jh_ZvzUxrYNqaNIaH9W9JgS7Ekt25s8v_JZJq8Ys5T86xczvALp5OnVGyeogUPH98aGbgCQlvzwRVmR6hu2WJlRD39grP9UuWVQ5geDZwU2seUckpANksJDs8CLsIRcj=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczOqNjHN1qIre6zmyB6BV4acRjkM73GnjDdvtSIjN3pbTaZh94PgnL9-Tm8CJC4fUVs3HEbteC_TPJwurOPQkxgaawDbZy7dIO7GfFxiopUYhhDXMRiFsKZdlxLuXkUOykTjH83lkGohcrDX4VWSSIE4=w944-h944-s-no-gm?authuser=0",
     "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczNQQevK_ZTk2rFfY8ycyiZk12G0iyGuSe1xSH2p38K0PGlDVRVC2PveQxpmTt3frBnhCEBFpW7sZabmErEnAAqM1oglzdyUKsXO1KX1Lv4I0F_E2S5wSCzCAaSEZNSx1FEeQwqbRfXNAHAJ6U1GDtN4=w944-h944-s-no-gm?authuser=0",
-    "FOTO 7": ""
+    "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczNQQevK_ZTk2rFfY8ycyiZk12G0iyGuSe1xSH2p38K0PGlDVRVC2PveQxpmTt3frBnhCEBFpW7sZabmErEnAAqM1oglzdyUKsXO1KX1Lv4I0F_E2S5wSCzCAaSEZNSx1FEeQwqbRfXNAHAJ6U1GDtN4=w944-h944-s-no-gm?authuser=0"
   },
   {
     "Nama Obat": "Cordepro Bharata",
@@ -92,7 +92,7 @@
   {
     "Nama Obat": "Fetamax Bharata",
     "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczPJwp2sqelEhYWeflUmrtXuELhkQ47XRWxpuhOiI-6pVwSagULAuwqBsUbm7NhyUsfIZqPWorgC90LlWDGt4unLa2g7DaiP8f6uxR-PHQSgEpBzZnkY8xIDIqH8qMZqaWVOiCUD15-nGucxzsi1Uia_=w944-h944-s-no-gm?authuser=0",
-    "FOTO 2": "",
+    "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczN4eLhcaL4qUgRxBlIhxTVCJrPurUUhKkU97J-vb4lo6QEsCD-HPBGpHyyB-gxDIjvPd8r__zRohoCVa064NH4dEX7A9-Y3we8u7w9DKRgKzC2f9xWoNcXOwx3W7IuH0u2f1y8q_sEP8vVTe6cqBnWt=w944-h944-s-no-gm?authuser=0",
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczNQkoHFkUTZqYUBPFg5L97CYA_WgDya2Kw7287PcwJCA9yJWl7T-w0mfBHUYd1H15m4g_jACE9d1zwPltnhI_quI7idYcgiiCP0o6kbLCChYmMDKBuCrEAiRKlEGPYQC3MPOsQv36JPys9sydDGVBCP=w944-h944-s-no-gm?authuser=0",
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczNOOUXkwRq9pX9uGdFMsSoLnKU1LZYCcPEZRdhrslEEeBHZyJqnvRuNGBsD57YbN9PBZlM_EV-aXwVOggtjl_WdfjqILPqgycMQfJT_5uzaIxysmu5hCycONMW79L8i4t-71ytbGFUBweJFF7LxTPSo=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczN4eLhcaL4qUgRxBlIhxTVCJrPurUUhKkU97J-vb4lo6QEsCD-HPBGpHyyB-gxDIjvPd8r__zRohoCVa064NH4dEX7A9-Y3we8u7w9DKRgKzC2f9xWoNcXOwx3W7IuH0u2f1y8q_sEP8vVTe6cqBnWt=w944-h944-s-no-gm?authuser=0",
@@ -145,14 +145,14 @@
     "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczP-7SyulrkaB0U0p3uL3hXb8XNgHcqCneFGXFRFDk1K71uu75lWOLDgiGb4NRh8bMxRokVGIlc_zup9jVOO6LWk45azEeTuVQT4IvlC4QSRr88qtGAGP1yyjZXe_xTwfODf3OO5QvL7nOXguS8tNqiS=w944-h944-s-no-gm?authuser=0",
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczP1ZVVR_GcPMAl_-nKsbdusfKU6tyepSyCxuzzCy4RtaEKitAAacDgFH2YlmcPTXenXyUuR1GqJa8BceyUOXfp8FsmxT7fruZlKHFLuu4RuGqo7vg5cXPXPvumfPZg63jl_pFLVq__eqGqAy0ftjyYN=w944-h944-s-no-gm?authuser=0",
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczPQ99EuBb5J8jkyjfowgO6lh6uGoUcYamcp-IZUFaTWUeUup4oTHMC9iF-trJdJU0iPD7ib6yxiooEhbos1yt9lsndk8SaPH2jZwHMRvQec0wSYssr2gGIyYZgQIuhKrX-Txb_v6S5UZVtZbh3dSn_R=w944-h944-s-no-gm?authuser=0",
-    "FOTO 5": "",
+    "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczOf-QJ922pW1FxqFabCZfL0Va0KsD3RvHFueeUhtLf_moP1S7TXE4hDfuu8DdxpVv72OGWJ5R9zunNm4lJEbvkC6hQ0P1E7Kaii1NpffMsvip402alEnzkR_wYvJzXCnF28KY3CX6zcENE7rka3N1-h=w944-h944-s-no-gm?authuser=0",
     "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczOf-QJ922pW1FxqFabCZfL0Va0KsD3RvHFueeUhtLf_moP1S7TXE4hDfuu8DdxpVv72OGWJ5R9zunNm4lJEbvkC6hQ0P1E7Kaii1NpffMsvip402alEnzkR_wYvJzXCnF28KY3CX6zcENE7rka3N1-h=w944-h944-s-no-gm?authuser=0",
     "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczP7l21-sbd_PiqxVDMKORldFtaRipMND4X_9k061VsPgFE4JbtulN7nK1rhhuTJowkRfvVzQ2aMzmkt9H-Nb3KPUfNWP3WnkFczLNLXjVB2y3QQsAyaFwNrCCy3vsNyG6xphOhL5i8CObThsWtOgaiS=w944-h944-s-no-gm?authuser=0"
   },
   {
     "Nama Obat": "Orthafit Bharata",
     "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczM9uy_OaGyrRHJL6jJqlXRXUa0jwQaGYz9SS0hJrt87fTlHly0NeMBtWMA1Wpwo5usJBpJArOteFizXkyW1YWbndmBfF2sHNcoTwcyyJcEjPu2r0jSAr3prmLE09R7Anm6Pk925uIB3n-W8Zyqx2SbP=w944-h944-s-no-gm?authuser=0",
-    "FOTO 2": "",
+    "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczNAXHEWtdQnz2sn8eHlcO9Fw3nZEGAqIINvGUvz2oFn6qIvXc1lzN2787FfKt9olg6m6wAmXr_Hfmm-vRqBFk3u30SG0VgpwEVIBEds-ZeuhjAaTXwEgD8j6FDfsjhbW4eZj2tvsFPZZYtRvpgJNti1=w944-h944-s-no-gm?authuser=0",
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczMKOCqUfQr6s8KB48dT4j7wwSNgFNRAHZGa34nkkuOHByM4dK34wlTTs_aodZnxk1qweQ9ji7zgIhEFtJgB-SfDFgyl12K8dE8KaLl0DGB8iFZvYr5OxlwZeSwYrk1UuQ6AuZkqK13vgRI5lbHfO8Bp=w944-h944-s-no-gm?authuser=0",
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczOMhQq-mbmYSFYucb5z6b4qndiNOhwk9bYUPttOXZWPYEsMHCD_JIoehjduKknrx2atbSl7IqEzTID5VqR-o4XQS6xKyRlDCwKab4d0FlwD53WXeglf2PSSBgywvROJmmyJoY3yDfgAEsEzzddRtvg8=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczNAXHEWtdQnz2sn8eHlcO9Fw3nZEGAqIINvGUvz2oFn6qIvXc1lzN2787FfKt9olg6m6wAmXr_Hfmm-vRqBFk3u30SG0VgpwEVIBEds-ZeuhjAaTXwEgD8j6FDfsjhbW4eZj2tvsFPZZYtRvpgJNti1=w944-h944-s-no-gm?authuser=0",
@@ -276,7 +276,7 @@
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczO-fAnzcQwtQkA35V10oAVN2MQDS54RKi2pvCgm5G8-nylQs-n1Tue9ZzN4yP90zAUQ8RLdKFrBvxmHf4R9ckH9vV1ssbpLiDsLp4e2NYpEoVqHlPIvE_PfMNB-JiIUJCF5aSIV8Gcnn6_-331_sMu8=w944-h944-s-no-gm?authuser=0",
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczPJKX6rim2iFBqL5AUb-2mJziDiUfVBNX_32Y_Up8Gs2qIzmqvjkCWl0EGir0Ptoeb_BNQiGlOEA6QnVL7xXY8tsOfJDNh7LXtc22Ra27RJsPv_02lEkaJWV5iNdV-8qlfMFjIFuta2UjMJPfV_NYHB=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczNS4VPEeHcmJeFAtQtJAB_ggltlIUV6UM5EvhMGCE1hAlfRq7kGutO7JFmPRFHBKB3K0GWKV01ESdhQrGEWpvoK19Zfgxv5-vx1tTPwaJsgPSHNkwqm9Fa2gmT7XWIDw8Y4xmYPmPpL3U8pnDGkrjPE=w944-h944-s-no-gm?authuser=0",
-    "FOTO 6": "",
-    "FOTO 7": ""
+    "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczNS4VPEeHcmJeFAtQtJAB_ggltlIUV6UM5EvhMGCE1hAlfRq7kGutO7JFmPRFHBKB3K0GWKV01ESdhQrGEWpvoK19Zfgxv5-vx1tTPwaJsgPSHNkwqm9Fa2gmT7XWIDw8Y4xmYPmPpL3U8pnDGkrjPE=w944-h944-s-no-gm?authuser=0",
+    "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczO-fAnzcQwtQkA35V10oAVN2MQDS54RKi2pvCgm5G8-nylQs-n1Tue9ZzN4yP90zAUQ8RLdKFrBvxmHf4R9ckH9vV1ssbpLiDsLp4e2NYpEoVqHlPIvE_PfMNB-JiIUJCF5aSIV8Gcnn6_-331_sMu8=w944-h944-s-no-gm?authuser=0"
   }
 ]
