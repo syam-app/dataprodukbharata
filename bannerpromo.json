@@ -1,0 +1,18 @@
+{
+  "promo1": {
+    "id": "carousel-item-1",
+    "image": "https://i.pinimg.com/736x/a5/8e/c1/a58ec118cc566924a839cc1b8a957544.jpg"
+  },
+  "promo2": {
+    "id": "carousel-item-2",
+    "image": "https://image.popmama.com/content-images/post/20240517/biodata%20dan%20profil%20Gracie%20JKT48%20%281%29-guHmOPiGJY9aWrvqrOcUoSdPpUmt3O02.png"
+  },
+  "promo3": {
+    "id": "carousel-item-3",
+    "image": "https://cdn.idntimes.com/content-images/post/20241021/untitled-2-bb59cc3d05a8ffd2f057d17deabba2b2_600x400.jpg"
+  },
+  "promo4": {
+    "id": "carousel-item-4",
+    "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/142/2024/09/20/regie-art-3-527510685.jpg"
+  }
+}
