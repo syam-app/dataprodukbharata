@@ -9,6 +9,16 @@
     "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczOyJQsfxJ0J4-JZLn9knua83ZSnGDnnoRDwhG_qAWyyqH7DMu0mqeQeilyrlCfuY7mNNl4ZbHCr-yCEuizHl6Q5h3B3QvzEzVbuOFU_5rltcNh0ClPQXo65_cGbWjIbWpkpeXEdBDv6ATPiNcKFBVCu=w944-h944-s-no-gm?authuser=0",
     "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczOJ_RFAK25CKYdvd8-q79UcBSVtXzQo4BJpNIJBqaXikp_OfymdmPPkLtmJPpJ2IKfVILFWfOjAnNgJ4eMFqm17EBJb4swr8Seqn9wy-UQUttoYi0ecDFxCES-UcoDD8gCp8XCPIRYUDb4N8d63Eocc=w944-h944-s-no-gm?authuser=0"
   },
+    {
+    "Nama Obat": "Antapro Bharata",
+    "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczNDX24dB3jmcxXQ9tDv-yZUk3115CvtUv7EdL6xOSNjdvtu-MVl8q_A1mTUb2L5dVDOeBE5Xao7RNi1dH6ZVXO9-9vvPdo42KQ-oGm_wGugTbT4GE6L6iK1gb3LjO0CtroBqalU68bdYCxvbQNRoAcM=w531-h531-s-no-gm?authuser=0",
+    "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczNhh4XsrquWCCehcrgGL62BNnUzzbimdv517dcNK2Jn28HzioDliY_cuDSmOQu_rbOgrNMneCX6zBmZ1SKhDh51ZyRa9F5mKJuWAfsNEHx--kr_l47lwgjMQKpOymwPgzwSvW7h6lRk456_q6yJ5RWL=w944-h944-s-no-gm?authuser=0",
+    "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczPGWSGY4SSjqDXF4EpN_6Kb2rJz117fUgSTyMuQJqLLg6xSgxhLS8Hqv5n5MC28auxSh7qDACHPbhy8IFScFo4znzgrduGLdJC4BKx4_wGve57irDOCM3NFSlwbKlsYeUqyGbMvYH1XoDuKoVK1aUqq=w528-h528-s-no-gm?authuser=0",
+    "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczO7ecXU1Zwwo0gBFi1X1WT5j43edGCeilIs887M12mvDOWsW2J0h_4DyTB9yK5_A6FsnOgjju5qf7GQ_NXoNsCXgDbGCWsy62Q_EiXVuFquyrBGBiFBDkYCA1AGH9oEcYR_w4erdWbcJn5V0VQbBctn=w528-h528-s-no-gm?authuser=0",
+    "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczOLPBfWe7HX7UMnKSiEOvYPaATu3qJ3GWtKIirERhXd7p_QPH4JUuj6gUTvOMks7dk7OBiJjLUz1ZcMs4Q2LvIc6AWtV8PlMsiL6yUQZexu6WtV07zLa9YAqG6ZUNFa-zONSYJv-wtwu-PsViyQWkzt=w528-h528-s-no-gm?authuser=0",
+    "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczNhL7J3MOpPTmkZTZnmKx3H-LajHaLHdzJdhSGzUKU05nP9XzD0obf6YnpwrO4K4KDawQitFsoiqRuZ2mpaQojlZddXtOSgCrzT6Ecimv8eBWtFZOPbB2nNnm_26YTfNZGRPq34w7Vi17aKiTV6WVi4=w528-h528-s-no-gm?authuser=0",
+    "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczOonmjVFvBQZ3hObl4rPvZKC-s966JbQzkgE0RVZdJr4MTLFfARNb_HKyFITJsaAbeW47pAAXuKZqQlfgeE8_89_Fhpw3aaRTGoLpI-RuwhB1jB9lm0a_w_SFHRyUN3majH_j8a0zaQMUh3PfurwiYi=w528-h528-s-no-gm?authuser=0"
+  },
   {
     "Nama Obat": "Chanamax Bharata",
     "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczNTkckzPtbUn-8-VhsRfs_OQ-0s6ORJcydkHhTIfPENvqDY6fEz1CMDIEFRUAZSzYaSs25MYv_kjRPYm1Wkx3pPPWRkRYsicBHVBRQNOkzTbUAjV1DAQpDiq18ESniU1hSNRNh7-sPCji23vY9muUuz=w944-h944-s-no-gm?authuser=0",
