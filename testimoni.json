@@ -53,7 +53,7 @@
         "isi": "Produknya original beneran, aku simak testimoninya ternyata benar ini Best kak, trimakasih banyak kak udah sangat ramah, trimakasih atas arahannya. Nanti rencana mau order lagi buat tetangga"
       }
     ],
-    "bharata.Chanamax": [
+    "bharata.Channamax": [
       {
         "nama": "sur",
         "sakit": "luka pasca caesar",
@@ -243,5 +243,431 @@
         "sakit": "kista/ miom",
         "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
       }
+    ],
+    "bharata.Hexfida": [
+      {
+        "nama": "anton",
+        "sakit": "lambung",
+        "isi": "Alhamdulillah pesanan ke 2 sudah smpai, obat cocok dan sdah merasakan reaksi perubahannya, terimakasih sekali rekomendasinya ,semoga ayah sya cpat sembuh Aamiin 🤲"
+      },
+      {
+        "nama": "*******",
+        "sakit": "gastritis",
+        "isi": "Ini pembelian kedua, lgsg order 2botol, biar ga boros d ongkir. Beli ini Krn byk review bagus dan Pd cocok, lambung menjadi enakan setelah konsumsi ini.  semoga bisa sembuh jg dgn konsumsi ini. Bismillah..lahaulaa walaquwwata illaabillaah #another level of ikhtiar🥹🤲"
+      },
+      {
+        "nama": "m saeful",
+        "sakit": "magh",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, botol ke 4 smoga dengan ikhtiar melalui obat Hexfida bisa cpat sembuh. Aamiin 🤲"
+      },
+      {
+        "nama": "nani",
+        "sakit": "tukak lambung",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol lambung saya sudah tidak terasa sakit.Order yg ke2 kali nya ikhtiar semoga habis 2 botol lambung saya sembuh amiin"
+      },
+      {
+        "nama": "************",
+        "sakit": "lambung",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
+      }
+    ],
+    "bharata.Libaver": [
+      {
+        "nama": "saras",
+        "sakit": "liver",
+        "isi": "Alhamdulillah pesanan ke 2 sudah smpai, obat cocok dan sdah merasakan reaksi perubahannya, terimakasih sekali rekomendasinya ,semoga ibu sya cpat sembuh Aamiin 🤲"
+      },
+      {
+        "nama": "*******",
+        "sakit": "hepatitis",
+        "isi": "Ini pembelian pertamaku, lgsg order 2botol, biar ga boros d ongkir. Beli ini Krn byk review bagus dan Pd cocok."
+      },
+      {
+        "nama": "akrim",
+        "sakit": "liver",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, botol ke 4 smoga dengan ikhtiar melalui obat Libaver bisa cpat sembuh. Aamiin 🤲"
+      },
+      {
+        "nama": "jony",
+        "sakit": "kuning",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol penyakit kuning saya sudah baikan.Order yang ke 2 semoga saya sembuh amiin"
+      },
+      {
+        "nama": "************",
+        "sakit": "liver",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
+      }
+    ],
+    "bharata.Orthafit": [
+      {
+        "nama": "ahmad",
+        "sakit": "infeksi",
+        "isi": "saya baru pertama order, baru minum 3 hari alhamdulillah sakit di kemaluan saya sudah reda, semoga bisa sembuh total aminn"
+      },
+      {
+        "nama": "torik",
+        "sakit": "gagal ginjal",
+        "isi": "puji tuhan, setelah saya konsumsi ke 5 botol ini cuci darah sudah tidak pernah sy lakukan, sembuh sembuh tuhan"
+      },
+      {
+        "nama": "nur aisyah",
+        "sakit": "uremia",
+        "isi": "kata dokter penyakit saya lama penyembuhannya, tapi alhamdulillah alloh kasih petunjuk obat lewat perantara orthafit"
+      },
+      {
+        "nama": "nani",
+        "sakit": "sakit ginjal",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol benjolan saya mengecil.Order yg ke2 kali nya ikhtiar semoga habis 2 botol sakit saya sembuh amiin"
+      },
+      {
+        "nama": "************",
+        "sakit": "asidosis",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
+      }
+    ],
+    "bharata.Prefilax": [
+    {
+      "nama": "yasmi",
+      "sakit": "wasir",
+      "isi": "setelah konsumsi 2 botol obat ini alhamdulillah wasir saya sembuh"
+    },
+    {
+      "nama": "bunda rina",
+      "sakit": "wasir",
+      "isi": "semoga dengan wasilah obat ini wasir saya bisa sembuh ya alloh, saya lihat banyak yang sembuh dari ulasan ulasan yang saya baca"
+    },
+    {
+      "nama": "karim",
+      "sakit": "ambeien",
+      "isi": "terimakasih prefilax berkat konsumsi obat ini penyakit saya sembuh. hehe seneng rasanya"
+    },
+    {
+      "nama": "najib",
+      "sakit": "ambeien",
+      "isi": "alhamdulillah sekarang sudah tidak takut lagi angkat berat, berkat obat ini saya sembuh setelah 4 botol saya minum"
+    },
+    {
+      "nama": "************",
+      "sakit": "sakit anus",
+      "isi": "terimakasih min, bener bener luar biasa obatnya biasanya saya minum obat selalu ada efek sampingnya ini tidak. mantaplah pokoknya"
+    }
+  ],
+  "bharata.Redapro": [
+      {
+        "nama": "bu tia",
+        "sakit": "rabun",
+        "isi": "Alhamdulillah pesanan ke 2 sudah smpai, obat cocok dan sdah merasakan reaksi perubahannya, terimakasih sekali rekomendasinya ,semoga cepet jelas penglihatannya 🤲"
+      },
+      {
+        "nama": "*******",
+        "sakit": "rabun senja",
+        "isi": "dulu sebelum saya tau obat ini, penglihatan saya buram alhamdulillah sekarang sudah tidak. terimakasih redapro"
+      },
+      {
+        "nama": "mamanya nia",
+        "sakit": "rabun",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, botol ke 4 smoga dengan ikhtiar melalui obat Redapro bisa cpat sembuh. Aamiin 🤲"
+      },
+      {
+        "nama": "solehan",
+        "sakit": "benjolan",
+        "isi": "saya beli buat mbah saya, katanya penglihatannya membaik, makanya sy pesen lagi biar sembuh total min"
+      },
+      {
+        "nama": "tian",
+        "sakit": "kista/ miom",
+        "isi": "terimakasih Redapro rabun saya sudah sembuh"
+      }
+    ],
+    "bharata.Retlifa": [
+      {
+        "nama": "arumsari",
+        "sakit": "nyeri jantung",
+        "isi": "alhamdulillah setelah konsumsi ke 3 botol ini, nyeri jantung saya sudah hilang, bener bener terbukti khasiatnya min, terimakasih"
+      },
+      {
+        "nama": "makmur",
+        "sakit": "lelah",
+        "isi": "sebelum konsumsi ini badan saya klo aktifitas dikit dikit cape, alhamdulillah skrg tidak, makasih ya min obat ini ampuh"
+      },
+      {
+        "nama": "maesaroh",
+        "sakit": "jantung",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, botol ke 2 smoga dengan ikhtiar melalui obat Retlifa bisa cpat sembuh. Aamiin 🤲"
+      },
+      {
+        "nama": "bayu",
+        "sakit": "gagal jantung",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol jantung saya sudah tidak sakit.Order yg ke2 kali nya ikhtiar semoga habis 2 botol penyakit saya sembuh amiin"
+      },
+      {
+        "nama": "************",
+        "sakit": "radang jantung",
+        "isi": "awalnya saya ragu namun saya tetep ikhtiyar beli obat ini  eh ternyata khasiatnya beneran. alhamdulillah terimakasih Relfila"
+      }
+    ],
+    "bharata.Triganos": [
+      {
+        "nama": "umar",
+        "sakit": "kutil kelamin",
+        "isi": "semoga lantaran obat ini penyakit saya bisa hilang, takut soalnya"
+      },
+      {
+        "nama": "rania",
+        "sakit": "gonore",
+        "isi": "konsumsi kedua, semoga cepat sembuh amin."
+      },
+      {
+        "nama": "amin",
+        "sakit": "sipilis",
+        "isi": "udah ke 5 sih ini, tapi sejak konsumsi ini alhamdulillah sudah baikan"
+      },
+      {
+        "nama": "muhtar",
+        "sakit": "kencing nanah",
+        "isi": "sempet bingung nyari obat sana sini, alhamdulillah ketemu sama obat triganos sekarang sudah sembuh, alloh masih sayang padaku"
+      },
+      {
+        "nama": "************",
+        "sakit": "sipilis",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya"
+      }
+    ],
+    "bharata.Vellare": [
+      {
+        "nama": "inarotul",
+        "sakit": "batu empedu",
+        "isi": "setelah konsumsi 2 botol alhamdulillah batu empedu sy sembuh, makasih min"
+      },
+      {
+        "nama": "*******",
+        "sakit": "peluruh batu ginjal",
+        "isi": "beli pertama semoga bener khasiatnya, soalnya sy lihat ulasannya bagus bagus"
+      },
+      {
+        "nama": "rohmat",
+        "sakit": "batu empedu",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, botol ke 4 smoga dengan ikhtiar melalui obat Garlida bisa cpat sembuh. Aamiin 🤲"
+      },
+      {
+        "nama": "agung",
+        "sakit": "benjolan",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol batu empedu saya sudah baik, besoka lanjut order yang kedua min"
+      },
+      {
+        "nama": "************",
+        "sakit": "batu empedu",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
+      }
+    ],
+    "bharata.Verdilla": [
+      {
+        "nama": "khayat",
+        "sakit": "tbc",
+        "isi": "pesanan ke 2 , kemarin saya perhatikan tbc saya sudah baikan, makanya sy percaya dgn obat ini bisa sembuhkan saya aminn"
+      },
+      {
+        "nama": "*******",
+        "sakit": "asma",
+        "isi": "baru 1 botol sesak napas saya sudah jarang kambuh, makasih verdilla"
+      },
+      {
+        "nama": "fitri",
+        "sakit": "bronkitis",
+        "isi": "awalnya ragu sih, namanya juda beli online tpi alhamdulillah adminnya jujur amanah obatnya juga bener bener berkhasiat"
+      },
+      {
+        "nama": "wahyuni",
+        "sakit": "radang paru paru",
+        "isi": "pengiriman cepat, packing juga rampuh semoga berkhasiat yah min. aminn"
+      },
+      {
+        "nama": "************",
+        "sakit": "batuk berdarah",
+        "isi": "kemarin sudah habis 1 botol, ini mau lanjut lagi. alhamdulillah sudah ada perubahannya"
+      }
+    ],
+    "bharata.Fetamax": [
+      {
+        "nama": "bondan",
+        "sakit": "kurus",
+        "isi": "sbelum konsmsi berat sya cuma 40 kg dgn TB 160, kurus kali dulu. alhamdulillah habis 2 botol sekarang sudah naik 50 kg"
+      },
+      {
+        "nama": "*******",
+        "sakit": "nafsu makan",
+        "isi": "anak sy nafsu makannya gak ada, sy lihat di medsos obat ini, sy beli alhamdulillah anak sya nafsu makannya sudah stabil lagi, makasih Fetamax"
+      },
+      {
+        "nama": "maya",
+        "sakit": "kurus",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat"
+      }     
+    ],
+    "bharata.Vigarex": [
+    {
+      "nama": "hasyim",
+      "sakit": "ejakulasi dini",
+      "isi": "kemarin 5 menit setelah konsumsi ini kuat 2 jam wkwkwk"
+    },
+    {
+      "nama": "*******",
+      "sakit": "ejakulasi dini",
+      "isi": "asli ampuh, kuat 5 ronde sampe klepek klepek"
+    },
+    {
+      "nama": "******",
+      "sakit": "impotensi",
+      "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat, order ke 4 semoga penyakit saya semakin membaik. aminn"
+    },
+    {
+      "nama": "******",
+      "sakit": "loyo",
+      "isi": "belikan suami saya biar gak loyo lagi, semoga beneran khasiatnya kaya ulasan ulasan yang saya baca."
+    },
+    {
+      "nama": "************",
+      "sakit": "Lemah syahwat",
+      "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 5 hari minum sdah merasakan perubahanya, kalau lihat lawan jenis sudah ada gregetnya wkwkw"
+    }
+  ],
+  "bharata.Remafost": [
+      {
+        "nama": "mamanya rayan",
+        "sakit": "asam urat",
+        "isi": "buat kake saya sudah 3 hari konsumsi katanya sudah baikan, terimakasih remafost bener bener mujarab"
+      },
+      {
+        "nama": "anindita",
+        "sakit": "rematik",
+        "isi": "beli pertama kali buat ayah saya, beneran ampuh sudah tidak kambuh kambuh lagi"
+      },
+      {
+        "nama": "farid",
+        "sakit": "sendi",
+        "isi": "awalnya sering kesemutan di tungkai sama lutut, alhamdulillah habis 2 btol skrg sudah sembuh. makasih minnn"
+      },
+      {
+        "nama": "maria",
+        "sakit": "linu sendi",
+        "isi": "Paket sudah sampe pengiriman cepat, habis 1 botol benjolan saya mengecil.Order yg ke2 kali nya ikhtiar semoga habis 2 botol asam urat saya sembuh amiin"
+      },
+      {
+        "nama": "************",
+        "sakit": "rematik",
+        "isi": "Alhamdulillah min paket sdah sya trima, pket sesuai pesanan,packing rapih pengiriman cpat, obatnya jg sangat bagus,sya sdah 3 hari minum sdah merasakan perubahanya, smoga selalu amanah min"
+      }
+    ],
+    "bharata.Proghasa": [
+      {
+        "nama": "rania",
+        "sakit": "kunang kunang",
+        "isi": "Alhamdulillah cocok, kunang kunang saya udah sembuh, obat ini bisa memperkuat imun tubuh beneran bun"
+      },
+      {
+        "nama": "*******",
+        "sakit": "dehidrasi",
+        "isi": "Ini pembelian pertamaku, lgsg order 2botol, buat menjaga kesehatan tubuh soalnya mau haji"
+      },
+      {
+        "nama": "ersa",
+        "sakit": "sakit sakitan",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat seperti biasa, order ke 4 kali semoga badan jadi kuat skrg udah gk sakit sakitan lagi"
+      },
+      {
+        "nama": "************",
+        "sakit": "jaga imun",
+        "isi": "Alhamdulillah min paket sdah sya trima, bagus untuk menjaga kesehatan tubuh"
+      }
+    ],
+    "bharata.Gerdafost": [
+      {
+        "nama": "marzuki",
+        "sakit": "gerd",
+        "isi": "Fast respon, pengiriman cepat. dan alhamdulillah gerd saya sudah sembuh setelah konsumsi 3 botol, terimakasih min obatnya manjur"
+      },
+      {
+        "nama": "*******",
+        "sakit": "maag akut",
+        "isi": "Order yang ke 2, semoga di 2 botol ini maag sy sudah benar benar sembuh. bener bener terbukti khasiatnya, terimakasih"
+      },
+      {
+        "nama": "naya",
+        "sakit": "maag kronis",
+        "isi": "sudah 5 tahun saya pengobatan ke sana kemari untuk maag kronis saya, alhamdulillah setelah ketemu dan konsumsi Gerdafost maag kronis sya 80% sudah sembuh"
+      },
+      {
+        "nama": "************",
+        "sakit": "usus buntu",
+        "isi": "terimakasih Gerdafost stelah sy konsumsi 2 botol alhamdulillah keluhan sy sudah hilang"
+      }
+    ],
+    "bharata.Pregnadev": [
+      {
+        "nama": "yuni",
+        "sakit": "mual mual",
+        "isi": "pertama kali hamil sy sering mual mual, alhamdulillah setelah konsumsi Pregnadev mual sy sekarang sudah terkurangi, terimakasih min. pelayanannya sangat ramah"
+      },
+      {
+        "nama": "barok",
+        "sakit": "susah hamil",
+        "isi": "saya order 2 botol untuk sy dan istri, semoga bisa membantu sy punya keturunan. aminnn"
+      },
+      {
+        "nama": "susanti",
+        "sakit": "haid",
+        "isi": "betul min, setelah habis 2 botol haid sy skrang lancar. terimakasih Pregnadev dan juga adminya ramah asik buat konsul"
+      }
+    ],
+"bharata.Speragood": [
+      {
+        "nama": "jamil",
+        "sakit": "kunang kunang",
+        "isi": "sudah 2 tahun saya khawatir sering sakit di bagian vital dan ada benjolan, alhamdulillah stelah konsumsi Speragood bnjolannya hilang dan sakitnya gk ada"
+      },
+      {
+        "nama": "*******",
+        "sakit": "belum punya keturunan",
+        "isi": "saya sudah order 3 botol, semoga kluarga saya bisa cepat punya keturunan. aminnn"
+      },      
+      {
+        "nama": "************",
+        "sakit": "ejakulasi dini",
+        "isi": "pengiriman cepat dan hasilnya memuaskan, terimakasih min"
+      }
+     ],
+     "bharata.Glucacare": [
+      {
+        "nama": "sudirjo",
+        "sakit": "diabetes",
+        "isi": "Alhamdulillah cocok, diabetes saya udah sembuh, obat ini bener bener ampuh"
+      },
+      {
+        "nama": "*******",
+        "sakit": "kencing manis",
+        "isi": "obatnya bagus, adminnya juga ramah. bener bener didampingi saat konsumsi obat. semoga sy bisa sembuh yah min. terimakasih"
+      },
+      {
+        "nama": "gunardi",
+        "sakit": "gula darah",
+        "isi": "Terimakasih obatnya sdah sampai, obat original, pengiriman jg cpat seperti biasa, order ke 4 kali semoga badan jadi kuat gula darah juga kekontrol"
+      }
+    ],
+    "bharata.Femmiresh": [
+      {
+        "nama": "cahya",
+        "sakit": "keputihan",
+        "isi": "Alhamdulillah cocok, keputihan saya berkurang juga sudah tidak bau lagi, makasih femmiresh"
+      },
+      {
+        "nama": "*******",
+        "sakit": "keputihan",
+        "isi": "sebelum konsumsi obat ini keputihan sy sering bgt muncul alhamdulillah sekarang sudah engga stelah habis 2 botol ini, makasih yah min"
+      },
+      {
+        "nama": "********",
+        "sakit": "bau tak sedap",
+        "isi": "Terimakasih obatnya sdah sampai, obatnya asli, pengiriman jg cpat, semoga cocok dengan obat ini"
+      }      
     ]
   }
