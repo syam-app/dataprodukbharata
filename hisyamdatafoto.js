@@ -280,7 +280,7 @@
     "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczNCICnyvXhB4P_pA9ZrUye-QP5YM-h_3MIAOqTAbBaTtQyOXb1oq3h8cvMmAOwyRI6zJDMf6MPu0xRdx2-llxlS21PDebuAytv4k6cuMTg9QLP0AkP6VUFQNgS8xAZD9qRwCG7rQuuG_PN8orJ97yyL=w944-h944-s-no-gm?authuser=0"
   },
   {
-    "Nama Obat": "Vulnus Bharata",
+    "Nama Obat": "Salep Vulnus",
     "FOTO 1": "https://lh3.googleusercontent.com/pw/AP1GczOILlxf-C6M9AjuH51NCmQaa4AYP0SVmVe8-rOYc73YceSc7H7QNHoGjyvmvkrTC20I6-d35NR0qlUFIrDeJxYHHf-e7XGSR7iYDeGgu6kq9EJPCZqm516KHXdqmUsTbsIxigHFospkhL65ZJKNZBWH=w944-h944-s-no-gm?authuser=0",
     "FOTO 2": "https://lh3.googleusercontent.com/pw/AP1GczNyrRbQQkwM6Bv25DqPxmTuRuzbK3qQS3_nLLE0j67YZGvLQcji1NAoyUlyYoOxkJ7bK8E-V4ev4xYNEtnDmEOXLtXk6efBUuE1spER0xL1Bjj8T_LOZWMzKUsHfFcKj6BVewMqmxETQLaSIrY4D33x=w944-h944-s-no-gm?authuser=0",
     "FOTO 3": "https://lh3.googleusercontent.com/pw/AP1GczO-fAnzcQwtQkA35V10oAVN2MQDS54RKi2pvCgm5G8-nylQs-n1Tue9ZzN4yP90zAUQ8RLdKFrBvxmHf4R9ckH9vV1ssbpLiDsLp4e2NYpEoVqHlPIvE_PfMNB-JiIUJCF5aSIV8Gcnn6_-331_sMu8=w944-h944-s-no-gm?authuser=0",
