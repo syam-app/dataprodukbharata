@@ -137,7 +137,7 @@
     "FOTO 4": "https://lh3.googleusercontent.com/pw/AP1GczM1HHp7Amq1YPXywuRWcbiYkDFaHMNBhx9c3kBfq4GXagYyvdfH1yNW2EzyO1kChiU4cSAUTDyEknV5w3S3zaTguFmLm7MfaGxmZIXJL08riqC1SnKPmM7QK1BFHpmATWuTBTMw7Sgj41UVC58Ou13G=w944-h944-s-no-gm?authuser=0",
     "FOTO 5": "https://lh3.googleusercontent.com/pw/AP1GczNwn0JrRsCKG1tNVcNxVGusNfNUr8LkaJBjWSMsVAfluGfhJoWjRGbWrdtChVkfaXJjUb0jzVkFGwSZ5PlV8H2DiskkY5sxZeNEoIXEedXyLcjo6urV71HJdY8cm9SEPaEpszunqLSn5OqMGps80cAy=w944-h944-s-no-gm?authuser=0",
     "FOTO 6": "https://lh3.googleusercontent.com/pw/AP1GczNHHInzVIFTlS-1PRskl8xVGqe4qdbB7Wx2J0fHJ1Pv_hEhFonhvDf1H8zmOdXflYUUMSQbL5Cmct7KWbMrUatxdtF8okKCVusEmDPoQWGBABiKe17x8V0n6J8BDXZuOxsRSQPBXWQHo8cUHeUv7Mvp=w944-h944-s-no-gm?authuser=0",
-    "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczM9fyOEHkViVbop-3AvLUFN_5sYo_qGq0nhGV_Pd5YdGrOlj9BuF3Yh3oM762yGtzUbILKImW1jTKAS1POJcruBKn2ax4POZyipXNhphehul-3NMu3VG2gs3b-1GhwVJC7nzsI7Vfnwb75Zy19-xx54=w944-h944-s-no-gm?authuser=0"
+    "FOTO 7": "https://lh3.googleusercontent.com/pw/AP1GczNPaQqQKBIdS5jci5epiVuURZc61EC8QeQdI_MXU4D72ffB2Gsh41dNdZXsP3obHmUPCJvc90NLEg1G3_sOjjq_xOVb4tG5orZA8P_1wY7IRO92Nto2V826ratwyzC4YnwNaNBlewa50GCYz8vLjabM=w944-h944-s-no-gm?authuser=0"
   },
   {
     "Nama Obat": "Hexfida Bharata",
