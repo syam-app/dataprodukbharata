@@ -96,7 +96,7 @@
             "Mengobati Kencing Darah",
             "Mengobati Raja Singa",
             "Mengobati Herpes Genital",
-            "Mengobati Kutil K3lamin",
+            "Mengobati Kutil Kelamin",
             "Mengobati Chlamydia"
           ],
           "kandunganobat": [
@@ -290,8 +290,8 @@
         "bharata.Glucacare": {
           "fotoobat": "https://lh3.googleusercontent.com/pw/AP1GczO-v6m9760ffRp_3KKXXsFmXwlRUs9dIrxcc18I_Z8gWg9uOz6VMlZ2FWnGD_7dT8V5THq4nZAuEdW_CL-Kfz1sdpQDoTHIM8bj3rgIbHvli71809d7JxjVtYjBPOs4QInDnChov1Wt0Kl2QVWWVNOu=w545-h545-s-no-gm?authuser=0",
           "namaobat": "Glucacare Bharata",
-          "hargaobatup": "Rp 250.000",
-          "hargaobat": "Rp 195.000",
+          "hargaobatup": "Rp 350.000",
+          "hargaobat": "Rp 275.000",
           "kemasanobat": "kardus, botol",
           "bentukobat": "kapsul, 50 Kapsul",
           "pomobat": "TR 223 068 651",
@@ -309,7 +309,7 @@
             "Cinnamomum Burmanii Cortex Ekstrak 100mg"
           ],
           "dosisobat": [
-            "3x sehari @1 kapsul",
+            "2x sehari @1 kapsul",
             "Diminum Sebelum Makan"
           ],
           "kontraindikasi": "tidak ada"
@@ -522,14 +522,14 @@
           "khasiatobat": [
             "Mengobati Wasir",
             "Mengobati Ambeien",
-            "Mengobati Benjolan 4nus",
+            "Mengobati Benjolan Anus",
             "Mengobati Fustula Ani",
             "Mengobati Sakit Saat BAB",
-            "Mengobati Gatal / Infeksi 4nus",
+            "Mengobati Gatal / Infeksi Anus",
             "Melancarkan Haid",
             "Mengobati Bisul dan Anti Inflamasi",
             "Mengobati Sembelit",
-            "Mengobati 4nus Bengkak"
+            "Mengobati Anus Bengkak"
           ],
           "kandunganobat": ["Graptophyllum Pictum Folium 300mg"],
           "dosisobat": [
@@ -583,13 +583,13 @@
           "mantapobat": "Lihat Dikemasan",
           "khasiatobat": [
             "Mengobati Impotensi",
-            "Mengobati Menguatkan 3reksi",
-            "Mengobati 3jakulasi Dini",
-            "Mengobati Lemah Sy4hwat",
+            "Mengobati Menguatkan Ereksi",
+            "Mengobati Ejakulasi Dini",
+            "Mengobati Lemah Syahwat",
             "Menambah Stamina",
-            "Obat Ku4t Alami",
+            "Obat Kuat Alami",
             "Menambah Durasi",
-            "Menambah T4han Lama"
+            "Menambah Tahan Lama"
           ],
           "kandunganobat": ["Eurycoma Longifolia Radix Ekstrak 300mg"],
           "dosisobat": [
@@ -672,14 +672,14 @@
           "pomobat": "TR 223 059 531",
           "mantapobat": "Lihat Dikemasan",
           "khasiatobat": [
-            "Penyubur Sp3rma",
-            "Mematangkan Sp3rma",
-            "Mengentalkan Sp3rma",
-            "Memperbanyak Sp3rma",
-            "Menguatkan 3reksi",
-            "Meningkatkan Kualitas Sp3rma",
+            "Penyubur Sperma",
+            "Mematangkan Sperma",
+            "Mengentalkan Sperma",
+            "Memperbanyak Sperma",
+            "Menguatkan Ereksi",
+            "Meningkatkan Kualitas Sperma",
             "Promil Pria",
-            "Mempercepat Produksi Sp3rma"
+            "Mempercepat Produksi Sperma"
           ],
           "kandunganobat": [
             "Bee Pollen 100mg",
@@ -704,12 +704,12 @@
           "mantapobat": "Lihat Dikemasan",
           "khasiatobat": [
             "Mematangkan Sel T3lur",
-            "Merangsang 0varium",
-            "Menguatkan R4him",
+            "Merangsang Ovarium",
+            "Menguatkan Rahim",
             "Promil Alami Wanita",
-            "Penyubur K4ndungan",
-            "Menguatkan K4ndungan",
-            "Mempercepat K3hamilan",
+            "Penyubur Kandungan",
+            "Menguatkan Kandungan",
+            "Mempercepat Kehamilan",
             "Meningkatkan Hormon Esterogen"
           ],
           "kandunganobat": [
